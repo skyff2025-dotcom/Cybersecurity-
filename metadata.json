@@ -1,0 +1,6 @@
+{
+  "name": "CyberAware",
+  "description": "Learn. Protect. Stay Secure. A premium Cyber Security Awareness Portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
